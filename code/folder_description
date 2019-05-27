@@ -1,6 +1,0 @@
-# contains code for stages of dc residential housing prices project:
-  - data_wrangling
-  - data_story
-  - eda
-  - linear regression
-  - random forest regression
